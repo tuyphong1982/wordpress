@@ -1,2 +1,2 @@
 # wordpress
-For testing web source code management
+Testing web source code management
